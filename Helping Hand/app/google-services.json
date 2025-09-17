@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1034737359442",
+    "project_id": "ruralclap-cedde",
+    "storage_bucket": "ruralclap-cedde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034737359442:android:0ef36de970284aca669d8b",
+        "android_client_info": {
+          "package_name": "com.college.helpinghands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034737359442-vgle0kvrhdp47618c2m5c9koc7i8pdaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAog4xZOkLISwGFRXOpX_g3_eu81kyq4h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034737359442-vgle0kvrhdp47618c2m5c9koc7i8pdaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034737359442:android:1b7668d8593d0388669d8b",
+        "android_client_info": {
+          "package_name": "com.helpinghands.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034737359442-vgle0kvrhdp47618c2m5c9koc7i8pdaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAog4xZOkLISwGFRXOpX_g3_eu81kyq4h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034737359442-vgle0kvrhdp47618c2m5c9koc7i8pdaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
